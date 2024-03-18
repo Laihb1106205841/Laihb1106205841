@@ -7,7 +7,7 @@
 - 😄 Likes: MacDonald
 - ⚡ Fun fact: My C++ Teacher 
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laihb1106205841&show_icons=true&theme=radical)
+
 
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
