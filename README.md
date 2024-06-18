@@ -8,7 +8,7 @@
 - ⚡ Fun fact: My C++ Teacher 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laihb1106205841&layout=compact&hide=javascript,html,VHDL,Verilog,Tcl)](https://github.com/Laihb1106205841/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laihb1106205841&layout=compact&hide=javascript,html,VHDL,Verilog,Tcl&show=CS311-AI-Peoject3-XGBoost)](https://github.com/Laihb1106205841/github-readme-stats)
 
 
 <a href="https://github.com/Laihb1106205841">
