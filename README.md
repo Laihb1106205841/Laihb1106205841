@@ -10,6 +10,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laihb1106205841&layout=compact&hide=javascript,html,VHDL,Verilog)](https://github.com/Laihb1106205841/github-readme-stats)
 
+
+<a href="https://github.com/Laihb1106205841">
+  <img src="https://github-readme-stats.vercel.app/api?username=Laihb1106205841&show_icons=true&hide_border=true" />
+</a>
+
 <!--
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
@@ -23,9 +28,7 @@
 
 //-/->
 
-<a href="https://github.com/Laihb1106205841">
-  <img src="https://github-readme-stats.vercel.app/api?username=Laihb1106205841&show_icons=true&hide_border=true" />
-</a>
+
 
 
 
