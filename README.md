@@ -8,7 +8,7 @@
 - ⚡ Fun fact: My C++ Teacher 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laihb1106205841)](https://github.com/Laihb1106205841/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laihb1106205841&layout=compact&hide=javascript,html,VHDL,Verilog)](https://github.com/Laihb1106205841/github-readme-stats)
 
 <!--
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
